@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import { Plane, Camera, Clipboard } from 'lucide-react';
 
-// Mock flight data
 const AVAILABLE_FLIGHTS = [
   {
     id: 1,
