@@ -1,0 +1,16 @@
+export const container = "p-6 space-y-6";
+export const header = "bg-blue-600 text-white p-4 rounded-lg";
+export const flightSummary = "bg-yellow-50 p-6 rounded-lg";
+export const flightDetails = "flex items-center justify-between mb-4";
+export const timeline = "flex items-center justify-between py-4 border-t border-b border-gray-200";
+export const flightPath = "flex items-center justify-center space-x-2";
+export const ticketCard = "bg-white rounded-lg shadow-lg overflow-hidden";
+export const ticketContent = "p-6 flex justify-between items-start";
+export const passengerInfo = "flex items-center space-x-4";
+export const detailsGrid = "grid grid-cols-2 gap-4";
+export const qrCode = "ml-6";
+export const ticketFooter = "bg-gray-50 px-6 py-4";
+export const priceSummary = "bg-blue-50 p-6 rounded-lg";
+export const emailConfirmation = "bg-green-50 border border-green-200 p-4 rounded-lg";
+export const additionalInfo = "bg-gray-50 p-6 rounded-lg space-y-4";
+export const disabledButton = "p-4 bg-gray-200 text-gray-500 rounded-lg font-bold text-lg cursor-not-allowed"; 

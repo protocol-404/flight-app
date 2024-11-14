@@ -1,0 +1,10 @@
+export const container = "bg-yellow-400 p-4 md:p-6";
+export const form = "bg-white rounded-lg p-4 md:p-6 space-y-6 shadow-lg";
+export const header = "flex items-center space-x-2 text-blue-600 mb-6";
+export const citySelectionGrid = "grid grid-cols-1 md:grid-cols-2 gap-4 mb-6";
+export const detailsGrid = "grid grid-cols-1 md:grid-cols-3 gap-4 mb-6";
+export const inputIcon = "absolute left-3 top-1/2 -translate-y-1/2 text-gray-400";
+export const errorText = "absolute text-red-500 text-sm mt-1";
+export const priceSummary = "bg-blue-50 p-4 rounded-lg mb-6";
+export const priceSummaryContent = "flex flex-col md:flex-row justify-between items-start md:items-center space-y-4 md:space-y-0";
+export const totalPrice = "text-2xl font-bold text-blue-600";
